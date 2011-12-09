@@ -1,0 +1,4 @@
+build
+text-output.txt
+
+*.pyc
